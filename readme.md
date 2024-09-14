@@ -3,6 +3,7 @@
 ### Inicialização
 
 npm install
+
 npm start
 
 `localhost:8080/task`
@@ -12,6 +13,7 @@ GET, POST, PUT e DELETE
 
 ### Endpoints GET
 `/task/:number`
+
 `/task`
 
 ### Endpoint POST
